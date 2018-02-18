@@ -10,7 +10,7 @@ Contents:
 * [Credits and links](#credits-and-links)
 
 
-## What is a CSF?
+## What is a Critical Success Factor?
 
 A critical success factor (CSF) is a management term for an element that is necessary to achieve success.
 
@@ -18,13 +18,7 @@ A critical success factor (CSF) is a management term for an element that is nece
   * A CSF makes or breaks the success of the strategy.
   * Strategists should ask "Why would customers choose us?" and the answer is typically a critical success factor.
 
-* Choosing the right CSFs needs good understanding of what is important to the organization, to the industry, and to the customers.
-
-Wikipedia page:
-* [Critical success factor](https://en.wikipedia.org/wiki/Critical_success_factor)
-
-Our related guide that uses CSFs:
-* [Strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
+Choosing the right CSFs needs good understanding of what is important to the organization, to the industry, and to the customers.
 
 
 ## How to define a CSF
@@ -71,7 +65,7 @@ To improve a CSF, you can ask these questions:
 * Does the team feel empowered, capable, and ready for the challenges?
 
 
-## CSF vs. KRA vs. KSF vs. KFD</a></h2>
+## CSF vs. KRA vs. KSF vs. KFD
 
 * A Critical Success Factor (CSF) is a performance factor which is necessary for an objective's success; when all the CSFs are combined, they are sufficient for success. Critical Success Factors are the essential elements of a strategy for success in a particular business in a particular industry at a particular time.
 
@@ -82,7 +76,9 @@ To improve a CSF, you can ask these questions:
 * A Key Factors Of Difference (KFD) is a performance dimension that makes an individual businesses unique and distinct from other businesses in the same product area, market area, or industry area. Key Factors Of Difference are the factors a particular business chooses to differentiate itself on.
 
 
-## Credits and links
+## For more information
+
+* [Wikipedia: Critical success factor](https://en.wikipedia.org/wiki/Critical_success_factor)
 
 * [Key Succes Factors and their role in strategic planning](http://www.differentiateyourbusiness.co.uk/key-success-factors-and-their-role-in-strategic-planning)
 
