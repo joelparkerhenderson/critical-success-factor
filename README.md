@@ -1,21 +1,24 @@
-# Critical Success Factor (CSF)
+# Critical success factor (CSF)
 
 <img src="README.png" alt="Critical Success Factor" style="width: 100%;"/>
 
 Contents:
-* [What is a CSF?](#what-is-a-csf-)
+
+* [What is a CSF?](#what-is-a-csf)
 * [How to define a CSF](#how-to-define-a-csf)
 * [How to improve a CSF](#how-to-improve-a-csf)
 * [CSF vs. KRA vs. KSF vs. KFD</a></h2>](#csf-vs-kra-vs-ksf-vs-kfd-a-h2-)
 * [Credits and links](#credits-and-links)
 
 
-## What is a Critical Success Factor?
+## What is a critical success factor?
 
 A critical success factor (CSF) is a management term for an element that is necessary to achieve success.
 
   * A CSF drives the strategy forward.
+
   * A CSF makes or breaks the success of the strategy.
+
   * Strategists should ask "Why would customers choose us?" and the answer is typically a critical success factor.
 
 Choosing the right CSFs needs good understanding of what is important to the organization, to the industry, and to the customers.
@@ -26,22 +29,39 @@ Choosing the right CSFs needs good understanding of what is important to the org
 To define a CSF, you can cover these areas:
 
 * Plan
+
   * Clear definition of goals, roles, and impacts
+
   * Realistic calendar of tasks and activities
+
   * Access to financial resources
+
   * Set norms of quality
+
   * Balanced budget
-* Processes 	
+
+* Processes
+
   * Formal work methodology
+
   * Solid infrastructures
-* People 	
+
+* People
+
   * Team work
+
   * Competencies
+
   * Commitment
+
 * Power
+
   * Experienced managers
+
   * Sense of fairness
-* Contingency strategy 	
+
+* Contingency strategy
+
   * Risk and vulnerability assessments
 
 You can also consider Rockart's CSF types:
@@ -60,25 +80,28 @@ You can also consider Rockart's CSF types:
 To improve a CSF, you can ask these questions:
 
 * Does the CSF clearly relate to a strategic objective and key result (OKR)?
+
 * Does the organization have the right resources and infrastructures?
+
 * Does the team clearly understand the plan, goals, roles, and impacts?
+
 * Does the team feel empowered, capable, and ready for the challenges?
 
 
 ## CSF vs. KRA vs. KSF vs. KFD
 
-* A Critical Success Factor (CSF) is a performance factor which is necessary for an objective's success; when all the CSFs are combined, they are sufficient for success. Critical Success Factors are the essential elements of a strategy for success in a particular business in a particular industry at a particular time.
+* A critical success factor (CSF) is a performance factor which is necessary for an objective's success; when all the CSFs are combined, they are sufficient for success. Critical success factors are the essential elements of a strategy for success in a particular business in a particular industry at a particular time.
 
-* A Key Results Area (KRA) is a synonym for CSF. This can confuse people, so it's typically better to write CSF and not KRA.
+* A key results area (KRA) is a synonym for CSF. This can potentially confuse people, so it's typically better to write CSF and not KRA.
 
-* A Key Success Factor (CSF) is a performance factor that is generally for a trade, profession or industry; a KSF is something that a business must do to be successful. Key Success Factors are common across firms within a product area, market area, or industry area.
+* A key success factor (CSF) is a performance factor that is generally for a trade, profession or industry; a KSF is something that a business must do to be successful. Key success factors are common across firms within a product area, market area, or industry area.
 
-* A Key Factors Of Difference (KFD) is a performance dimension that makes an individual businesses unique and distinct from other businesses in the same product area, market area, or industry area. Key Factors Of Difference are the factors a particular business chooses to differentiate itself on.
+* A key factor of difference (KFD) is a performance dimension that makes an individual businesses unique and distinct from other businesses in the same product area, market area, or industry area. Key factors of difference are the factors a particular business chooses to differentiate itself on.
 
 
 ## For more information
 
-* [Wikipedia: Critical success factor](https://en.wikipedia.org/wiki/Critical_success_factor)
+* [Wikipedia: Critical success factor](https://wikipedia.org/wiki/Critical_success_factor)
 
 * [Key Succes Factors and their role in strategic planning](http://www.differentiateyourbusiness.co.uk/key-success-factors-and-their-role-in-strategic-planning)
 
@@ -86,3 +109,15 @@ To improve a CSF, you can ask these questions:
 
 * [How To Determine Critical Success Factors For Your Business](https://www.clearpointstrategy.com/how-to-determine-critical-success-factors-for-your-business/)
 
+
+## Tracking
+
+  * Package: critical_success_factor
+  * Website: http://joelparkerhenderson.com/critical_success_factor
+  * Cloning: https://github.com/joelparkerhenderson/critical_success_factor
+  * Version: 2.1.0
+  * Created: 2018-02-16
+  * Updated: 2019-01-01
+  * License: GPL
+  * Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * Tracker: f44c30d1b876f8987cf78c727e573542
