@@ -4,11 +4,14 @@
 
 Contents:
 
-* [What is a CSF?](#what-is-a-csf)
+* [What is a critical success factor?](#what-is-a-critical-success-factor)
 * [How to define a CSF](#how-to-define-a-csf)
 * [How to improve a CSF](#how-to-improve-a-csf)
-* [CSF vs. KRA vs. KSF vs. KFD</a></h2>](#csf-vs-kra-vs-ksf-vs-kfd-a-h2-)
-* [Credits and links](#credits-and-links)
+* [Key result area (KRA)](#key-result-area-kra)
+* [Key success factor (KSF)](#key-success-factor-ksf)
+* [Key factor of difference (KFD)](#key-factor-of-difference-kfd)
+* [For more information](#for-more-information)
+* [Tracking](#tracking)
 
 
 ## What is a critical success factor?
@@ -19,9 +22,14 @@ A critical success factor (CSF) is a management term for an element that is nece
 
   * A CSF makes or breaks the success of the strategy.
 
-  * Strategists should ask "Why would customers choose us?" and the answer is typically a critical success factor.
+  * When all the CSFs are combined, they are sufficient for success.
 
 Choosing the right CSFs needs good understanding of what is important to the organization, to the industry, and to the customers.
+
+  * Critical success factors are the essential elements of a strategy for success in a particular business in a particular industry at a particular time.
+
+  * Strategists should ask "Why would customers choose us?" and the answer is typically a critical success factor.
+
 
 
 ## How to define a CSF
@@ -88,28 +96,31 @@ To improve a CSF, you can ask these questions:
 * Does the team feel empowered, capable, and ready for the challenges?
 
 
-## CSF vs. KRA vs. KSF vs. KFD
-
-A critical success factor (CSF) is a performance factor which is necessary for an objective's success.
-
-  * Critical success factors are the essential elements of a strategy for success in a particular business in a particular industry at a particular time.
-
-  * When all the CSFs are combined, they are sufficient for success.
-
+## Key result area (KRA)
 
 A key result area (KRA) is a synonym for CSF.
 
-  * This can potentially confuse people, so it's typically better to write CSF and not KRA.
+  * The KRA synonym can confuse peoplem, so it's typically better to write CSF and not KRA.
 
-A key success factor (CSF) is a performance factor that is generally for a trade, profession or industry.
+  * CSF is the more widespread term.
+
+
+## Key success factor (KSF)
+
+A key success factor (KSF) is a performance factor that is generally for a trade, profession or industry.
 
   * Key success factors are common across firms within a product area, market area, or industry area.
 
   * A KSF is something that a business must do to be successful.
 
-A key factor of difference (KFD) is a performance dimension that makes an individual businesses unique and distinct from other businesses in the same product area, market area, or industry area.
 
-  * Key factors of difference are the factors a particular business chooses to differentiate itself on.
+## Key factor of difference (KFD)
+
+A key factor of difference (KFD) is a performance dimension that makes an individual businesses unique and distinct.
+
+  * The uniqueness and distinctness is specifically from other businesses in the same product area, market area, or industry area.
+
+  * Key factors of difference are the factors that a particular business chooses to differentiate itself on.
 
 
 ## For more information
