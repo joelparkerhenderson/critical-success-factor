@@ -90,13 +90,26 @@ To improve a CSF, you can ask these questions:
 
 ## CSF vs. KRA vs. KSF vs. KFD
 
-* A critical success factor (CSF) is a performance factor which is necessary for an objective's success; when all the CSFs are combined, they are sufficient for success. Critical success factors are the essential elements of a strategy for success in a particular business in a particular industry at a particular time.
+A critical success factor (CSF) is a performance factor which is necessary for an objective's success.
 
-* A key results area (KRA) is a synonym for CSF. This can potentially confuse people, so it's typically better to write CSF and not KRA.
+  * Critical success factors are the essential elements of a strategy for success in a particular business in a particular industry at a particular time.
 
-* A key success factor (CSF) is a performance factor that is generally for a trade, profession or industry; a KSF is something that a business must do to be successful. Key success factors are common across firms within a product area, market area, or industry area.
+  * When all the CSFs are combined, they are sufficient for success.
 
-* A key factor of difference (KFD) is a performance dimension that makes an individual businesses unique and distinct from other businesses in the same product area, market area, or industry area. Key factors of difference are the factors a particular business chooses to differentiate itself on.
+
+A key result area (KRA) is a synonym for CSF.
+
+  * This can potentially confuse people, so it's typically better to write CSF and not KRA.
+
+A key success factor (CSF) is a performance factor that is generally for a trade, profession or industry.
+
+  * Key success factors are common across firms within a product area, market area, or industry area.
+
+  * A KSF is something that a business must do to be successful.
+
+A key factor of difference (KFD) is a performance dimension that makes an individual businesses unique and distinct from other businesses in the same product area, market area, or industry area.
+
+  * Key factors of difference are the factors a particular business chooses to differentiate itself on.
 
 
 ## For more information
